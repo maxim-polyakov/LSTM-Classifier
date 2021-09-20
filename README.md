@@ -6,3 +6,5 @@
 Time sheet posting classifier:
 1) classification by validity
 2) classification by maning
+
+Also includes reader for downloading the ready to use for classification.
